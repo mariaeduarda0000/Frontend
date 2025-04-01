@@ -1,13 +1,29 @@
+.interacao{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #b0e1f5;
+}
+
+.logoParque{
+    width: 40px;
+    height: 45px;
+}
+
+.contato{
+    color: black;
+}
+
+.titulo{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h2{
     color: aliceblue;
     margin-top: 60px;
 }
 
-h1{
-    text-align: center;
-    font-size: 52px;
-    color: aliceblue;
-}
 
 body {
     background-image: url('https://i.pinimg.com/736x/ff/eb/e1/ffebe157a62a3d2997cf6de6ab0720ce.jpg'); 
@@ -20,25 +36,12 @@ body {
 h3{
     color: aliceblue;
     font-size: 18px;
-    margin-top: 90px;
+    margin-top: 40px;
 }
 
 ul{
     font-size: 15px;
     color: aliceblue;
-}
-
-p{
-    color: aliceblue;
-    text-align: center;
-
-}
-
-h4{
-    color: aliceblue;
-    font-size: 20px;
-    margin-top: 90px;
-    text-align: center;
 }
 
 h5{
@@ -49,11 +52,3 @@ h5{
 
 }
 
-header{
-    text-align: center;
-    padding: 2px;
-    background: #b0e1f5;
-}
-nav{
-    text-align: center;
-}
