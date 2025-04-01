@@ -1,0 +1,47 @@
+.teste {
+    background-color: rgb(109, 23, 167);
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+
+.cabecario{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+.barra{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+.logo {
+    width: 90px;
+}
+
+ul {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    list-style: none;
+}
