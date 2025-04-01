@@ -1,0 +1,91 @@
+h1 {
+    font-family: Ablation;
+    font-size:300%;
+    color:white;
+    text-align: center;
+    margin-top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background {
+   background-color:black;
+}
+
+p {
+    font-size:120%;
+    color:white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    background-color: black;
+    flex-direction:column;
+    align-items: center;
+    height: 500px;
+    padding: 150px;
+    width: 300px;
+    border: solid;
+    border-width: 13px;
+    border-color:white;
+    border-radius: 7px;
+    margin: 200px;
+    margin-left:650px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+h6{
+    color:black;
+    text-align: center;
+    margin-top: -165px;
+    margin-left: 10px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h3{
+    color:black;
+    text-align: center;
+    margin-top: 1000px;
+    margin-left: 60px;
+    margin-top: 360px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.linha1{
+    width: 300px;
+    height: 5px;
+    background-color: white;
+    position:absolute;
+    z-index: 90;
+    margin-top: -110px;
+}
+.linha2{
+    width: 150px;
+    height: 5px;
+    background-color: white;
+    position:absolute;
+    z-index: 90;
+    margin-top: -90px;
+}
+.linha3{
+    width: 300px;
+    height: 5px;
+    background-color: white;
+    position:absolute;
+    z-index: 90;
+    margin-top: 140px;
+    margin-left: 200px;
+}
+.linha4{
+    width: 150px;
+    height: 5px;
+    background-color: white;
+    position:absolute;
+    z-index: 90;
+    margin-top: 120px;
+    margin-left: 350px;
+}
